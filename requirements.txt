@@ -1,0 +1,2 @@
+tkinter==0.1.0  # Ya viene incluido en Python estándar
+pyinstaller==6.0.0  # Solo si quieres crear un ejecutable
